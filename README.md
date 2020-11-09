@@ -18,6 +18,8 @@ scikit-learn = 0.23.1\
 joblib = 0.15.1\
 imageio = 2.8.0\
 skimage = 0.16.2
+# Pretrained moedl
+I have trained the four models <https://drive.google.com/drive/folders/1A4_fAhWjDqzHLhLs4HHsErl90A1Wtgz9?usp=sharing>
 # Dataset
 Real-life trail:\
 121 videos including 61 deceptive videos and 60 truth videos\
