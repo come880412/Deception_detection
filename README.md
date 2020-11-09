@@ -9,15 +9,15 @@ There are four parts at our deception system：\
 4.Audio emotion feature\
 We combine the above four features to do classification by SVM.And use this model to predict whether the subject is lie or not.
 # Requirement
-pytorch\
-pyqt5\
-argparse\
-Numpy\
-Opencv\
-scikit-learn\
-joblib\
-imageio\
-skimage
+python = 3.6.10\
+pytorch = 1.6.0\
+pyqt = 5.12.3\
+numpy = 1.18.5\
+opencv = 4.3.0\
+scikit-learn = 0.23.1\
+joblib = 0.15.1\
+imageio = 2.8.0\
+skimage = 0.16.2
 # Dataset
 Real-life trail:\
 121 videos including 61 deceptive videos and 60 truth videos\
