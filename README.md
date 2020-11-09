@@ -24,4 +24,4 @@ Bag-of-lies:\
 MSPL-YTD:\
 145 videos including 62 deceptive videos and 83 truth videos
 # GUI demo
-以下是我自行設計的使用者介面：
+![image](https://github.com/come880412/Deception_detection/blob/main/demo.jpg)
