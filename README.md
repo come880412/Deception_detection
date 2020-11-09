@@ -27,3 +27,7 @@ MSPL-YTD:\
 145 videos including 62 deceptive videos and 83 truth videos
 # GUI demo
 ![image](https://github.com/come880412/Deception_detection/blob/main/demo.jpg)
+# Run
+```python=
+python lie_GUI.py
+```
