@@ -1,10 +1,12 @@
-# Deception_detection intro
+# Deception detection
+CVGIP2020:DECEPTION SYSTEM FOCUSING ON FACIAL EXPRESSION CHANGE WITH TONE OF VOICE\
+ICSSE2020:Face Expression and Tone of Voice for Deception System
+# intro
 There are four parts at our deception system：\
 1.Emotion Unit\
 2.Action Unit\
 3.68 facial landmarks displacement\
 4.Audio emotion feature\
-\
 We combine the above four features to do classification by SVM.And use this model to predict whether the subject is lie or not.
 # Requirement
 pytorch\
