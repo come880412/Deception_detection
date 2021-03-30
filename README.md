@@ -7,7 +7,7 @@ There are four parts at our deception system：\
 2.Action Unit\
 3.68 facial landmarks displacement\
 4.Audio emotion feature\
-We combine the above four features to do classification by SVM.And use this model to predict whether the subject is lie or not.
+We concatenate all the four features to do classification by SVM. And use this model to predict whether the subject is lying or not.
 # Requirement
 python = 3.6.10\
 pytorch = 1.6.0\
