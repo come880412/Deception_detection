@@ -1,6 +1,6 @@
 # Deception detection
-CVGIP2020:DECEPTION SYSTEM FOCUSING ON FACIAL EXPRESSION CHANGE WITH TONE OF VOICE(Award of best paper)\
-ICSSE2020:Face Expression and Tone of Voice for Deception System(Award of best student paper)
+CVGIP2020 : DECEPTION SYSTEM FOCUSING ON FACIAL EXPRESSION CHANGE WITH TONE OF VOICE(Award of best paper)\
+ICSSE2020 : Face Expression and Tone of Voice for Deception System(Award of best student paper)
 # intro
 There are four parts at our deception system：\
 1.Emotion Unit\
