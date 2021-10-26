@@ -22,11 +22,11 @@ skimage = 0.16.2
 - Please download the pre-trained models before you run the code
 <https://drive.google.com/drive/folders/1A4_fAhWjDqzHLhLs4HHsErl90A1Wtgz9?usp=sharing>
 # Dataset
-Real-life trail:\
+Real-life trial dataset:\
 121 videos including 61 deceptive videos and 60 truth videos\
-Bag-of-lies:\
+Bag-of-lies dataset:\
 325 videos including 162 deceptive videos and 163 truth videos\
-MSPL-YTD:\
+MSPL-YTD dataset:\
 145 videos including 62 deceptive videos and 83 truth videos
 # GUI demo
 ![image](https://github.com/come880412/Deception_detection/blob/main/demo.jpg)
