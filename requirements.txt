@@ -1,0 +1,8 @@
+pytorch = 1.6.0
+pyqt = 5.12.3
+numpy = 1.18.5
+opencv = 4.3.0
+scikit-learn = 0.23.1
+joblib = 0.15.1
+imageio = 2.8.0
+skimage = 0.16.2
