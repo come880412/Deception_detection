@@ -1,14 +1,14 @@
 # Deception detection
 CVGIP2020 : DECEPTION SYSTEM FOCUSING ON FACIAL EXPRESSION CHANGE WITH TONE OF VOICE(Award of best paper)\
 ICSSE2020 : Face Expression and Tone of Voice for Deception System(Award of best student paper)
-# Intro
-There are four parts on our deception system：\
+## Intro
+There are four parts on our deception system：
 1. Emotion Unit\
 2. Action Unit\
 3. 68 facial landmarks displacement\
 4. Audio emotion feature\
 - We concatenate all four features to do classification by SVM. And use this model to predict whether the subject is lying or not.
-# Requirement
+## Requirement
 python = 3.6.10\
 pytorch = 1.6.0\
 pyqt = 5.12.3\
@@ -18,15 +18,15 @@ scikit-learn = 0.23.1\
 joblib = 0.15.1\
 imageio = 2.8.0\
 skimage = 0.16.2
-# Pre-trained models
+## Pre-trained models
 - Please download the pre-trained models before you run the code
 <https://drive.google.com/drive/folders/1A4_fAhWjDqzHLhLs4HHsErl90A1Wtgz9?usp=sharing>
-# Dataset
-Real-life trial dataset:\
-121 videos including 61 deceptive videos and 60 truth videos\
-Bag-of-lies dataset:\
-325 videos including 162 deceptive videos and 163 truth videos\
-MSPL-YTD dataset:\
+## Dataset
+### Real-life trial dataset:
+121 videos including 61 deceptive videos and 60 truth videos
+### Bag-of-lies dataset:
+325 videos including 162 deceptive videos and 163 truth videos
+### MSPL-YTD dataset:
 145 videos including 62 deceptive videos and 83 truth videos
 # GUI demo
 ![image](https://github.com/come880412/Deception_detection/blob/main/demo.jpg)
