@@ -41,3 +41,4 @@ Please see the ```requirements.txt``` for more details.
 ```python=
 python lie_GUI.py
 ```
+- If you have any implementation problem, feel free to E-mail me! come880412@gmail.com
