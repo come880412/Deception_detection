@@ -1,5 +1,4 @@
 # Deception detection (Pytorch)
-CVGIP 2020 : DECEPTION SYSTEM FOCUSING ON FACIAL EXPRESSION CHANGE WITH TONE OF VOICE (Award of best paper)\
 ICSSE 2020 : Face Expression and Tone of Voice for Deception System (Award of best student paper)
 
 ## Flowchart of deception detection
