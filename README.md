@@ -28,12 +28,14 @@ Please see the ```requirements.txt``` for more details.
 <https://drive.google.com/drive/folders/1A4_fAhWjDqzHLhLs4HHsErl90A1Wtgz9?usp=sharing>
 
 ## Dataset
+- If you want access to the datasets below, please get in touch with the author who provided the datasets.
 ### Real-life trial dataset:
 121 videos including 61 deceptive videos and 60 truth videos
 ### Bag-of-lies dataset:
 325 videos including 162 deceptive videos and 163 truth videos
 ### MSPL-YTD dataset:
 145 videos including 62 deceptive videos and 83 truth videos
+
 ## GUI demo
 ![image](https://github.com/come880412/Deception_detection/blob/main/img/Demo.png)
 ## Inference
