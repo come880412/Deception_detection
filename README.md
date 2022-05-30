@@ -25,7 +25,7 @@ Please see the ```requirements.txt``` for more details.
 
 ## Pre-trained models
 - Please download the pre-trained models before you run the code
-<https://drive.google.com/drive/folders/1A4_fAhWjDqzHLhLs4HHsErl90A1Wtgz9?usp=sharing>
+<https://drive.google.com/drive/folders/1izJQF5bcbqNdDpYAdFvLCG0qJnHlicAg?usp=sharing>
 
 ## Dataset
 ### Real-life trial dataset:
@@ -34,6 +34,8 @@ Please see the ```requirements.txt``` for more details.
 325 videos including 162 deceptive videos and 163 truth videos
 ### MSPL-YTD dataset:
 145 videos including 62 deceptive videos and 83 truth videos
+
+- Note: If you would like access to the above datasets, please contact the authors who provided the dataset, respectively.
 ## GUI demo
 ![image](https://github.com/come880412/Deception_detection/blob/main/img/Demo.png)
 ## Inference
