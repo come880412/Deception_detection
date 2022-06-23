@@ -29,9 +29,9 @@ Please see the ```requirements.txt``` for more details.
 
 ## Dataset
 ### Real-life trial dataset:
-121 videos including 61 deceptive videos and 60 truth videos
+121 videos including 61 deceptive videos and 60 truth videos [related paper](https://web.eecs.umich.edu/~zmohamed/PDFs/Trial.ICMI.pdf)
 ### Bag-of-lies dataset:
-325 videos including 162 deceptive videos and 163 truth videos
+325 videos including 162 deceptive videos and 163 truth videos [related paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf)
 ### MSPL-YTD dataset:
 145 videos including 62 deceptive videos and 83 truth videos
 
